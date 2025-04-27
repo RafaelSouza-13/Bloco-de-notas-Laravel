@@ -117,6 +117,6 @@ Agora você pode acessar o projeto em `http://localhost:8000`.
 
 Este projeto foi desenvolvido como parte de um aprendizado baseado na **Laravel 11 & 12: Framework, Ecossistema e Projetos Web** do canal Udemy.
 
-## License
+## 🛡️ License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the. Este projeto está licenciado sob a [MIT license](https://opensource.org/licenses/MIT).
